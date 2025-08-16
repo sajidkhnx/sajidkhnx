@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mohd Sajid Khan</h1>
+<h1 align="center">Hi 👋, I'm Sajid Khan</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI & Machine Learning Enthusiast | Data Analyst</h3>
 
 <!-- Typing SVG -->
